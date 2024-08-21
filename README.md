@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=6ent1&label=Profile%20views&color=0e75b6&style=flat" alt="6ent1" /> </p>
 
-- 🔭 I’m currently working on [Spots Webapp](https://6ent1.github.io/se_project_spots/)
+- 🔭 I’m currently working on [WTWR Webapp](https://wtwrg.jumpingcrab.com/)
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript**
 
